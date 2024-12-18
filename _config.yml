@@ -1,3 +1,4 @@
 collections:
   main:
     output: true
+    permalink: /main/:path/
