@@ -1,0 +1,4 @@
+collections:
+  main_docs:
+    output: true
+    permalink: /MTH113-Notes/main/:path/
