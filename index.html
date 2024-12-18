@@ -8,11 +8,11 @@
 <body>
   <h1>My MTH113 Notes</h1>
   <ul>
-    {% for doc in site.main_docs %}
-      <li>
-        <a href="{{ doc.url }}">{{ doc.title }}</a> - {{ doc.date | date: "%Y-%m-%d" }}
-      </li>
-    {% endfor %}
+    {% for doc in site.main %}
+  <li>
+    <a href="{{ doc.url }}">{{ doc.title }}</a> - {{ doc.date | date: "%Y-%m-%d" }}
+  </li>
+{% endfor %}
   </ul>
 </body>
 </html>
