@@ -7,11 +7,9 @@
 <body>
     <h1>My MTH113 Notes</h1>
     <ul>
-        {% for doc in site.main %}
-        <li>
-            <a href="{{ doc.url }}">{{ doc.title }}</a> - {{ doc.date | date: "%Y-%m-%d" }}
-        </li>
-        {% endfor %}
+        <li><a href="/The role">Document 1 Title</a> - January 1, 2024</li>
+        <li><a href="/path/to/second-document">Document 2 Title</a> - January 2, 2024</li>
+        <li><a href="/path/to/third-document">Document 3 Title</a> - January 3, 2024</li>
     </ul>
 </body>
 </html>
