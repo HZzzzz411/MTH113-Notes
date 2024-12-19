@@ -1,4 +1,5 @@
 ---
+collection: main
 title: "The role of statistics and the Data Analysis Process"
 date: 2024-12-17 21:00:00
 ---
