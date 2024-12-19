@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My MTH113 Notes</title>
+    <meta charset="UTF-8">
+    <title>My MTH113 Notes</title>
 </head>
 <body>
-  <h1>My MTH113 Notes</h1>
-  <ul>
-    {% for doc in site.main %}
-  <li>
-    <a href="{{ doc.url }}">{{ doc.title }}</a> - {{ doc.date | date: "%Y-%m-%d" }}
-  </li>
-    {% endfor %}
-  </ul>
+    <h1>My MTH113 Notes</h1>
+    <ul>
+        {% for doc in site.main %}
+        <li>
+            <a href="{{ doc.url }}">{{ doc.title }}</a> - {{ doc.date | date: "%Y-%m-%d" }}
+        </li>
+        {% endfor %}
+    </ul>
 </body>
 </html>
