@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "MTH113-Notes"
+  navbar:
+    left:
+      - href: https://hzzzzz411.github.io/MTH113-Notes/
+        text: HZ
+      - href: index.html
+        text: Homepage
+      - href: 01.The-role-of-statistics-and-the-Data-Analysis-Process.html
+        text: 01.The-role-of-statistics-and-the-Data-Analysis-Process
+      #- href: sequence.qmd
+       # text: sequence
+      #- href: Lagrange.qmd
+       # text: lasso and Lagrange method
+      #- href: understand directional derivative deeply.qmd
+        #text: Directional Derivative
+      
+format: 
+  html: 
+    theme: cosmo
+    toc: true
