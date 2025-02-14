@@ -8,13 +8,13 @@ output:
 ---
 
 # MTH113-Notes
-- [The role of statistics and the Data Analysis Process](01.The%20role%20of%20statistics%20and%20the%20Data%20Analysis%20Process.md)
-- [Collecting Data](02.Collecting%20Data.md)
-- [Graphical Methods for Describing Data](03.Graphical%20Methods%20for%20Describing%20Data.md)
-- [Numerical Methods for Describing Data](04.Numerical%20Methods%20for%20Describing%20Data.md)
-- [Graphical and Numerical Methods for Summarizing Bivariate Data](05.Graphical%20and%20Numerical%20Methods%20for%20Summarizing%20Bivariate%20Data.md)
-- [Probability](06.Probability.md)
-- [Random Variables and Probability Distributions](07.Random%20Variables%20and%20Probability%20Distributions.md)
-- [Discrete Probability Distributions](08.Discrete%20Probability%20Distributions.md)
-- [Continuous Probability Distributions](09.Continuous%20Probability%20Distributions.md)
-- [Sampling Variability and Sampling Distribution](10.Sampling%20Variability%20and%20Sampling%20Distribution.md)
+- [The role of statistics and the Data Analysis Process](01.The-role-of-statistics-and-the-Data-Analysis-Process.html)
+- [Collecting Data](02.Collecting-Data.html)
+- [Graphical Methods for Describing Data](03.Graphical-Methods-for-Describing-Data.html)
+- [Numerical Methods for Describing Data](04.Numerical-Methods-for-Describing-Data.html)
+- [Graphical and Numerical Methods for Summarizing Bivariate Data](05.Graphical-and-Numerical-Methods-for-Summarizing-Bivariate-Data.html)
+- [Probability](06.Probability.html)
+- [Random Variables and Probability Distributions](07.Random-Variables-and-Probability-Distributions.html)
+- [Discrete Probability Distributions](08.Discrete-Probability-Distributions.html)
+- [Continuous Probability Distributions](09.Continuous-Probability-Distributions.html)
+- [Sampling Variability and Sampling Distribution](10.Sampling-Variability-and-Sampling-Distribution.html)
