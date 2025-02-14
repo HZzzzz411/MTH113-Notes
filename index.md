@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis Course Index"
+title: "MTH113-Notes"
 output: 
   html_document:
     theme: united
